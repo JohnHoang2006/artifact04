@@ -1,11 +1,10 @@
 //Created by Pratima Suneel
 
-var myImages =["Maya-870x580.jpg", 
-              "lol_dolphins.jpg",
-              "laugh.jpg",
-			  "dance.jpg",
-            "happy.png",
-            "sad.jpg"];
+var myImages =[ "yui.png",
+              "VRC.png",
+               "happy.png",
+               "sad.jpg",
+			      "web.jpg",]
 
 
 var captionImages =["Laugh", "Love", "Lunch", "Dance", "Happy", "Sad"]; 
