@@ -38,8 +38,8 @@ function next() {
 //
 function back() {
 
-   if (myImages.length == index+1) {  
-      index = 0;
+   if (index == 0) {
+      index = myImages.length - 1; // Wrap around to the end of the array;
    } else {
       index--;
    }
